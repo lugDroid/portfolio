@@ -1,0 +1,89 @@
+.panel-home {
+  margin-top: 30px;
+  background-image: url(http://i393.photobucket.com/albums/pp16/Lug77/B9E9OF_zps0nyd3ncp.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  height: 100%;
+}
+
+.panel-about {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  height: 100%;
+}
+
+.panel-portfolio {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  height: 100%;
+}
+
+.panel-contact {
+  background-image: url(http://i393.photobucket.com/albums/pp16/Lug77/contact-me_web_zpsj9hx3dqe.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  height: 50%;
+  margin-bottom: -2px;
+}
+
+.text-primary {
+  color: #fff;
+}
+
+h2 {
+  padding-bottom: 10px;
+}
+
+h3 {
+  padding-bottom: 10px;
+}
+
+#contact-title {
+  padding-bottom: 50px;
+}
+
+img {
+  border: 5px solid #ddd;
+}
+
+#footer {
+  background-color: #000;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.thumbnail {
+  box-shadow: 5px 5px 5px #888888;
+}
+
+.contact-picture {
+  margin-top: 35%;
+}
+
+.about-text {
+  margin-top: 15%;
+}
+
+.shadow {
+  text-shadow: 3px 3px 3px #333;
+}
+
+.panel-home div h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 450%;
+}
+
+.panel-home div h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 200%;
+  margin-bottom: 20px;
+}
+
+.panel-contact div h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 300%;
+}
